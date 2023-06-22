@@ -15,18 +15,25 @@ Bagaimana website yang dibuat menjawab 4 requirement dasar (kriteria penilaian).
    gambar website :
 
    <img width="479" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/ac8ff85d-82a8-4441-b3c5-78396c5af85f">
+   
+   <img width="481" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/c716af45-076e-426e-9c21-d3ea20203b22">
+
+   <img width="486" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/e741d927-5759-4ad4-805c-3cca901a0e28">
+
+   <img width="496" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/d55d6f85-5a43-4c18-b362-0be6fba0e8d0">
+
 
 
    
    
-3. Website responsive
+2. Website responsive
    Ketika website dibuka dalam device yang berbeda bentuk website atau landing page akan mengikuti ukuran layar atau menyesuaikan bentuk layar. Berikut tampilan 
    salah satu section yang responsive. Disini untuk membuat resposive saya menggunakan bootstrap.
    gambar section :
 
    
    
-4. Direct feedback ke pengguna website
+5. Direct feedback ke pengguna website
    Untuk Direct feedback ke pengguna secara langsung, yaitu terdapat dalam section 1 dan section 6. Direct feedback secara langsung yang saya gunakan untuk section 1
    yaitu ketika button "Home" di klik maka akan muncul pesan diatas yang bertuliskan "selamat datang readers..."
    Tampilan section 1:
@@ -41,10 +48,22 @@ Bagaimana website yang dibuat menjawab 4 requirement dasar (kriteria penilaian).
    <img width="496" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/44c7cf66-025a-4920-878f-009b42e87dfd">
 
    
-5. Konten dinamis dari database.
+4. Konten dinamis dari database.
    Konten dinamis dari database yaitu untuk memunculkan daftar buku dari perpustakaan, data user atau pengunjung, data petugas perpustakaan, dan data transaksi 
    peminjaman. Untuk bisa menampilkan data-data tersebut perlu dihubungkan dengan menggunakan phpMyAdmin. Berikut sourcecode yang digunakan untuk menghubungkan 
    database tersebut:
+
+   <?php
+       $host = "localhost";
+       $user = "root";
+       $password = "";
+       $dbname = "perpustakaan";
+      
+       $sambung = mysqli_connect($host, $user, $password, $dbname);
+   ?>
+   Penjelasan:
+   Dengan sourcecode diatas dapat melakukan operasi database seperti melakukan query, mengambil data, menambahkan data, dan lainnya dengan menggunakan objek
+   koneksi $sambung. Pastikan juga bahwa informasi koneksi seperti host, username, password, dan nama database telah sesuai dengan konfigurasi pada server MySQL.
    
    Berikut data-data yang muncul:
 
