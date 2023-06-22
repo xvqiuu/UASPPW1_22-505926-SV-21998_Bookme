@@ -19,9 +19,7 @@ Bagaimana website yang dibuat menjawab 4 requirement dasar (kriteria penilaian).
    <br>
    <img width="323" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/5ee7f507-bcea-44a6-8138-05bfc908cfac">
    <br>
-   <img width="481" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/c716af45-076e-426e-9c21-d3ea20203b22">
-   <br>
-   <img width="486" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/e741d927-5759-4ad4-805c-3cca901a0e28">
+   <img width="324" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/13f7207e-d8b0-411d-99fa-95c3290722b7">
    <br>
    <img width="496" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/d55d6f85-5a43-4c18-b362-0be6fba0e8d0">
 
