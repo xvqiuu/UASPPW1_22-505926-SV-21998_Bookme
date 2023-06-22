@@ -50,7 +50,7 @@ Bagaimana website yang dibuat menjawab 4 requirement dasar (kriteria penilaian).
    klik button "send" makan hasil dari masukkan tersebut akan tampil di bagian bawahnya.
    <br>
    Tampilan section 6:
-
+   <br>
    <img width="496" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/44c7cf66-025a-4920-878f-009b42e87dfd">
 
    <br>
