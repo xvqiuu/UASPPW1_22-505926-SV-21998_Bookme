@@ -87,7 +87,7 @@ Bagaimana website yang dibuat menjawab 4 requirement dasar (kriteria penilaian).
 
    <br>
    Tampilan section 1:
-
+   <br>
    <img width="481" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/b3057a24-9a7d-4d1c-b177-3f2e30ad7eb6">
 
    <br>
