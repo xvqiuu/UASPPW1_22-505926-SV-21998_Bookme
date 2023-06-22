@@ -10,6 +10,7 @@ apa saja yang terjadi dalam website sehingga memudahkan untuk pendataan. Di dala
 
 Bagaimana website yang dibuat menjawab 4 requirement dasar (kriteria penilaian). 
 1. Desain rapi mengikuti kaidah atau prinsip desain
+   <br>
    Desain ini sudah mengikuti prinsip dasar desain yang telah dipelajari dalam pertemuan kuliah sebelumnya. Penggunaan kombinasi warna antara hijau dan kuning 
    serta tulisan berwarna putih memudahkan pembaca melihat dan memahami isi dari website atau landing page. 
    gambar website :
@@ -27,13 +28,15 @@ Bagaimana website yang dibuat menjawab 4 requirement dasar (kriteria penilaian).
    
    
 2. Website responsive
+   <br>
    Ketika website dibuka dalam device yang berbeda bentuk website atau landing page akan mengikuti ukuran layar atau menyesuaikan bentuk layar. Berikut tampilan 
    salah satu section yang responsive. Disini untuk membuat resposive saya menggunakan bootstrap.
    gambar section :
 
    
    
-5. Direct feedback ke pengguna website
+3. Direct feedback ke pengguna website
+   <br>
    Untuk Direct feedback ke pengguna secara langsung, yaitu terdapat dalam section 1 dan section 6. Direct feedback secara langsung yang saya gunakan untuk section 1
    yaitu ketika button "Home" di klik maka akan muncul pesan diatas yang bertuliskan "selamat datang readers..."
    Tampilan section 1:
@@ -48,7 +51,8 @@ Bagaimana website yang dibuat menjawab 4 requirement dasar (kriteria penilaian).
    <img width="496" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/44c7cf66-025a-4920-878f-009b42e87dfd">
 
    
-4. Konten dinamis dari database.
+4. Konten dinamis dari database
+   <br>
    Konten dinamis dari database yaitu untuk memunculkan daftar buku dari perpustakaan, data user atau pengunjung, data petugas perpustakaan, dan data transaksi 
    peminjaman. Untuk bisa menampilkan data-data tersebut perlu dihubungkan dengan menggunakan phpMyAdmin. Berikut sourcecode yang digunakan untuk menghubungkan 
    database tersebut:
