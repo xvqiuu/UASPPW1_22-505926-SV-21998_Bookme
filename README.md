@@ -3,6 +3,7 @@ Nama: Lutfi Lisana Shidqi
 NIM: 22/505926/SV/21998
 
 Penjelasan Secara Umum:
+<br>
 Bookme merupakan website yang berkaitan mengenai perpustakaan. Di dalam website ini kita bisa melihat buku apa saja yang yang tersedia, user atau pengunjung
 perpustakaan, petugas dari perpustakaan atau pustakawan, dan juga transaksi peminjaman. Website ini digunakan untuk petugas dari perpustakaan atau pustakawan.
 Selain itu, disini juga dapat melihat beberapa kategori buku yang terdapat dalam website. Website ini memudahkan pustakawan untuk melihat kegiatan atau history 
