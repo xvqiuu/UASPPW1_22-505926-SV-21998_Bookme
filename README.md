@@ -33,7 +33,8 @@ Bagaimana website yang dibuat menjawab 4 requirement dasar (kriteria penilaian).
    database tersebut:
    
    Berikut data-data yang muncul:
-   
+   <img width="489" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/c9f5515d-ff1e-4efe-96ec-b8902af2f989">
+
    
 
 
