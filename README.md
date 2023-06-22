@@ -15,11 +15,11 @@ Bagaimana website yang dibuat menjawab 4 requirement dasar (kriteria penilaian).
    gambar website :
 
    <img width="479" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/ac8ff85d-82a8-4441-b3c5-78396c5af85f">
-   
+   <br>
    <img width="481" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/c716af45-076e-426e-9c21-d3ea20203b22">
-
+   <br>
    <img width="486" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/e741d927-5759-4ad4-805c-3cca901a0e28">
-
+   <br>
    <img width="496" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/d55d6f85-5a43-4c18-b362-0be6fba0e8d0">
 
 
@@ -61,6 +61,7 @@ Bagaimana website yang dibuat menjawab 4 requirement dasar (kriteria penilaian).
       
        $sambung = mysqli_connect($host, $user, $password, $dbname);
    ?>
+   
    Penjelasan:
    Dengan sourcecode diatas dapat melakukan operasi database seperti melakukan query, mengambil data, menambahkan data, dan lainnya dengan menggunakan objek
    koneksi $sambung. Pastikan juga bahwa informasi koneksi seperti host, username, password, dan nama database telah sesuai dengan konfigurasi pada server MySQL.
@@ -68,11 +69,11 @@ Bagaimana website yang dibuat menjawab 4 requirement dasar (kriteria penilaian).
    Berikut data-data yang muncul:
 
    <img width="489" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/c9f5515d-ff1e-4efe-96ec-b8902af2f989">
-
+   <br>
    <img width="387" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/ee5310d3-125b-45e5-8c94-43b95cc54e9a">
-
+   <br>
    <img width="281" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/cdeca1c6-12a4-4fc3-83e7-be2983b583ae">
-
+   <br>
    <img width="397" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/8fef694c-9109-4e4f-bc75-d0a701390291">
 
 
