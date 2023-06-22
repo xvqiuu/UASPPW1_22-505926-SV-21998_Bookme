@@ -83,26 +83,8 @@ Bagaimana website yang dibuat menjawab 4 requirement dasar (kriteria penilaian).
    <br>
    Berikut sourcecode yang digunakan:
    <br>
-                           <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                              <ul class="navbar-nav ms-auto">
-                                    <li class="nav-item">
-                                        <a class="nav-link"
-                                        onclick="alert('selamat datang readers...')">Home</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#daftarBuku">Daftar Buku</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="user.php">User</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="petugas.php">Petugas</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="pinjam.php">Peminjaman</a>
-                                    </li>
-                                </ul>
-                            </div>
+   <img width="385" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/96add66a-67be-4959-b4d4-ce5d92cfab94">
+
    <br>
    Tampilan section 1:
 
@@ -114,12 +96,7 @@ Bagaimana website yang dibuat menjawab 4 requirement dasar (kriteria penilaian).
    <br>
    Berikut sourcecode yang digunakan:
    <br>
-               <div class="col">
-                        <div class="container px-4 py-5 mx-auto">
-                           <div class="kritik">
-                                <div class="form-container">
-                                    <h3>Message</h3>
-                                    <form>
+                                   <form>
                                         <div class="mb-3">
                                             <label for="exampleFormControlInput1" class="form-label">
                 
