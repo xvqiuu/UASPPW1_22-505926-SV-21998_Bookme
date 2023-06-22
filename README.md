@@ -60,14 +60,8 @@ Bagaimana website yang dibuat menjawab 4 requirement dasar (kriteria penilaian).
    peminjaman. Untuk bisa menampilkan data-data tersebut perlu dihubungkan dengan menggunakan phpMyAdmin. Berikut sourcecode yang digunakan untuk menghubungkan 
    database tersebut:
    <br>
-   <?php
-       $host = "localhost";
-       $user = "root";
-       $password = "";
-       $dbname = "perpustakaan";
-      
-       $sambung = mysqli_connect($host, $user, $password, $dbname);
-   ?>
+   <img width="361" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/22956474-e2e3-4d3f-9954-44b9dd93b095">
+
    <br>
    Penjelasan:
    <br>
