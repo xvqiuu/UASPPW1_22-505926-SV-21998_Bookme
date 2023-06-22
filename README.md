@@ -21,8 +21,7 @@ Bagaimana website yang dibuat menjawab 4 requirement dasar (kriteria penilaian).
    <br>
    <img width="324" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/13f7207e-d8b0-411d-99fa-95c3290722b7">
    <br>
-   <img width="496" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/d55d6f85-5a43-4c18-b362-0be6fba0e8d0">
-
+   <img width="322" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/062d672e-0b5f-4c18-a660-f3b27e07cd42">
    
    <br>
 2. Website responsive
