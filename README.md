@@ -37,7 +37,7 @@ Bagaimana website yang dibuat menjawab 4 requirement dasar (kriteria penilaian).
    <img width="406" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/6a05a82d-b921-4937-b125-c8e712830901">
    <br>
    
-4. Direct feedback ke pengguna website
+3. Direct feedback ke pengguna website
    <br>
    Untuk Direct feedback ke pengguna secara langsung, yaitu terdapat dalam section 1 dan section 6. Direct feedback secara langsung yang saya gunakan untuk section 1
    yaitu ketika button "Home" di klik maka akan muncul pesan diatas yang bertuliskan "selamat datang readers..."
@@ -48,6 +48,7 @@ Bagaimana website yang dibuat menjawab 4 requirement dasar (kriteria penilaian).
    <br>
    Sedangkan untuk direct feedback secara langsung ke pengguna website yang saya gunakan dalam section 6 yaitu ketika memasukkan nama, email, dan pesan kemudian
    klik button "send" makan hasil dari masukkan tersebut akan tampil di bagian bawahnya.
+   <br>
    Tampilan section 6:
 
    <img width="496" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/44c7cf66-025a-4920-878f-009b42e87dfd">
