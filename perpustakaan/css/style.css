@@ -1,0 +1,82 @@
+.mb-auto{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+.nav-link {
+    color: white; 
+    font-weight: bold;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn{
+    background-color:#E09132;}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #424530;
+}
+.first {
+    background-color: #424530;
+    text-align: center;
+    color: white;
+    height: 300px;
+  }
+
+.konten {
+    float: left;
+    padding: 20px;
+    width: 80%;
+    background-color: #f1f1f1;
+    height: 600px;
+}
+
+.end {
+    clear: both;
+    background-color: #E09132;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    height: 100px;
+    margin-top: -60px;
+}
+.kritik {
+    display: flex;
+    /* align-items: center;
+    justify-content: center; */
+    margin: 0;
+    color: white;
+}
+
+.form-container {
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #424530;
+}
+
+.form-container h3 {
+    text-align: center;
+}
+
+.form-container label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.form-container input,
+.form-container textarea {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.form-container input[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
