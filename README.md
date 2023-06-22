@@ -14,6 +14,9 @@ Bagaimana website yang dibuat menjawab 4 requirement dasar (kriteria penilaian).
    serta tulisan berwarna putih memudahkan pembaca melihat dan memahami isi dari website atau landing page. 
    gambar website :
 
+   <img width="479" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/ac8ff85d-82a8-4441-b3c5-78396c5af85f">
+
+
    
    
 3. Website responsive
