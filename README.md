@@ -17,7 +17,7 @@ Bagaimana website yang dibuat menjawab 4 requirement dasar (kriteria penilaian).
    serta tulisan berwarna putih memudahkan pembaca melihat dan memahami isi dari website atau landing page. 
    Gambar website :
    <br>
-   <img width="479" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/ac8ff85d-82a8-4441-b3c5-78396c5af85f">
+   <img width="323" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/5ee7f507-bcea-44a6-8138-05bfc908cfac">
    <br>
    <img width="481" alt="image" src="https://github.com/xvqiuu/UASPPW1_22-505926-SV-21998_Bookme/assets/132545168/c716af45-076e-426e-9c21-d3ea20203b22">
    <br>
